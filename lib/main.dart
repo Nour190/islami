@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:islami/homeScreen.dart';
-
 void main() {
   runApp(
     MaterialApp(
